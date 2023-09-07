@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi there! 👋
 
-<!--
-**Hamza719alvi/Hamza719alvi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Hamza Alvi, a passionate fullstack developer. I specialize in:
 
-Here are some ideas to get you started:
+- Ruby on Rails 🛤️
+- React ⚛️
+- Node.js 🚀
+- Express.js 🌐
+- MongoDB 📦
+- Nest.js 🐤
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Feel free to reach out to me to collaborate or discuss exciting opportunities. Let's connect! 🌟
+
+[LinkedIn](https://www.linkedin.com/in/hamza-alvi-378baa1ab/)
+[Portfolio](https://meet-hamzaalvi.com)
