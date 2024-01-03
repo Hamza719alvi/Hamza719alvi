@@ -2,12 +2,12 @@
 
 I'm Hamza Alvi, a passionate fullstack developer. I specialize in:
 
+- Ruby on Rails 🛤️
 - React ⚛️
 - Node.js 🚀
 - Express.js 🌐
 - MongoDB 📦
 - Nest.js 🐤
-- Ruby on Rails 🛤️
 
 Feel free to reach out to me to collaborate or discuss exciting opportunities. Let's connect! 🌟
 
