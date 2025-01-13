@@ -8,6 +8,7 @@ I'm Hamza Alvi, a passionate fullstack developer. I specialize in:
 - Express.js 🌐
 - MongoDB 📦
 - Nest.js 🐤
+- Hubspot CRM
 
 Feel free to reach out to me to collaborate or discuss exciting opportunities. Let's connect! 🌟
 
